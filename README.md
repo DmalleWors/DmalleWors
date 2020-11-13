@@ -2,4 +2,4 @@
 
 - [Stickman](Stickman/)
 - [Bouncing Ball](Bouncing_Ball/)
-- [1](1/)
+- [Logiske operatorer](Logiske_operatorer/)
